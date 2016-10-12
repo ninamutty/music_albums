@@ -1,7 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
+redhotchillipeppers:
+  name: "The Red Hot Chilli Peppers"
 
-two:
-  name: MyString
+bonjovi:
+  name: "Bon Jovi"

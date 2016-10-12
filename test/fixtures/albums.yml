@@ -1,13 +1,19 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  artist_id: 
-  publisher: MyString
+slippery_when_wet:
+  name: "Slippery When Wet"
+  artist_id: :bonjovi
+  publisher: "Little Mountain Sound Studios"
+  price: 19.99
+
+bounce:
+  name: "Bounce"
+  artist_id: :bonjovi
+  publisher: "Island Murcury"
   price: 9.99
 
-two:
-  name: MyString
-  artist_id: 
-  publisher: MyString
-  price: 9.99
+the_getaway:
+  name: "The Getaway"
+  artist_id: :redhotchillipeppers
+  price:  5.99
+
