@@ -2,9 +2,12 @@
 
 redhotchillipeppers:
   name: "The Red Hot Chilli Peppers"
+  id: 23
 
 bonjovi:
   name: "Bon Jovi"
+  id: 3
 
 beyonce:
-  name:  "beyonce"
+  name:  "Beyonce"
+  id: 5
